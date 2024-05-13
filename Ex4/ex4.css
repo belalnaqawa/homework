@@ -1,0 +1,63 @@
+.container {
+    position: relative;
+    float: left;
+    left: 0px;
+}
+
+.A {
+    position: absolute;
+background-color: blue;
+height: 500px;
+width: 300px;
+}
+.B {
+    position: absolute;
+    background-color: black;
+    height: 500px;
+width: 300px;
+left: 310px;}
+.C {
+    position: absolute;
+    background-color: yellow;
+    height: 500px;
+width: 300px;
+left: 620px;
+}
+.D {
+    position: absolute;
+    background-color: purple;
+    height: 500px;
+width: 300px;
+left: 930px;
+}
+.E {
+    position: absolute;
+    background-color: red;
+    height: 500px;
+width: 300px;
+left: 1240px;
+}
+.F {
+    position: absolute;
+    background-color: rgb(0, 255, 98);
+    height: 500px;
+width: 300px;
+left: 1550px;
+}
+
+.G {
+    position: absolute;
+    background-color: aqua;
+    height: 300px;
+    width: 925px;
+    top: 510px;
+}
+.H {
+    position: absolute;
+    background-color: black;
+    height: 300px;
+    width: 915px;
+    top: 510px;
+    left: 935px;
+
+}
