@@ -1,0 +1,40 @@
+.blue {
+    background-color: skyblue;
+    margin: 0 50px 60px 0;
+    height: 400px;
+    padding-left: 50px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.white {
+    background-color: white;
+left: 30%;
+top: 20%;
+    height: 300px;
+    width: 500px;
+    border: 0cap;
+    box-shadow: 1px 1px 2px 2px;
+    position: absolute;
+}
+.A { 
+    position: absolute;
+    top: 20px;
+    left: 10px;
+width: 20%;
+}
+
+.B {
+    position: absolute;
+    top: 20px;
+    left: 35%;
+width: 20%;
+
+}
+.C {
+    position: absolute;
+    top: 80px;
+    left: 70%;
+width: 20%;
+
+}
